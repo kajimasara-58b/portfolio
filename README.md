@@ -87,3 +87,6 @@ MVPの段階では実装を予定していませんが、いずれ他ユーザ�
 【その他】  
 　VCS: GitHub  
 　CI/CD: GitHubActions  
+
+【画面遷移図】
+　https://www.figma.com/board/w5zFACEotd85gmgB0KMUlr/Untitled?node-id=0-1&t=SczRkzlJh7KIz3NH-1
